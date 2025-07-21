@@ -1,11 +1,11 @@
 <p1><b>ConversusFundatur</b></p1>
 
 <p2>About</p2>
-< br / >
+< br/>
 ConversusFundatur is a Turn-Based website based game, this project purpose is to upgrade my Javascript logic capability, CSS creativity, and my analytical skills.
 
 <p2>Changelogs</p2>
-< br / >
+< br/>
 <ul>
   <li>Prototype version 1.0</li>
   <ul>
